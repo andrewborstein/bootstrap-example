@@ -122,3 +122,12 @@ p {
 .alert-success {
   background-color: #dff0d8;
 }
+
+
+/*
+ * In-class tutorial styles
+ */
+
+.title {
+  font-size: 60px;
+}
